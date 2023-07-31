@@ -1,0 +1,3 @@
+| Project | Description | Technologies used | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Machine learning for predicting gold recovery coefficient](https://github.com/gi-garif/data-science-and-analytics-projects/blob/main/Machine%20Learning%20for%20Predicting%20Gold%20Recovery%20Coefficient.ipynb) | The main objective of this project was to build a model that predicts the gold recovery rate from gold-bearing ore based on data with parameters related to mining and purification processes.| *Python, Pandas, Matplotlib, NumPy, Scikit-learn* |

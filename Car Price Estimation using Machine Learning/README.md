@@ -1,0 +1,3 @@
+| Project | Description | Technologies used | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Car price estimation using machine learning](https://github.com/gi-garif/data-science-and-analytics-projects/blob/main/Car%20Price%20Estimation%20using%20Machine%20Learning.ipynb) | The project involves developing a car valuation model for a used car marketplace app, which aims to attract new customers by providing a quick and accurate estimation of the market value of their cars. | *Python, Pandas, Lightgbm* |

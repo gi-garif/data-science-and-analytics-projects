@@ -1,0 +1,3 @@
+| Project | Description | Technologies used | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Protection of insurance customers' personal data](https://github.com/gi-garif/data-science-and-analytics-projects/blob/main/Protection%20of%20Insurance%20Customers'%20Personal%20Data.ipynb) | The task was to develop a method for data transformation to protect the personal information of customers in the insurance company. The goal was to ensure that it becomes difficult to reconstruct sensitive information from the transformed data. The method was designed in such a way that it does not deteriorate the performance of machine learning models trained on the transformed data. | *Python, Pandas, NumPy, Scikit-learn* |

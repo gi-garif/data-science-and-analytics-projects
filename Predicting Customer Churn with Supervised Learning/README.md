@@ -1,0 +1,3 @@
+| Project | Description | Technologies used | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Predicting customer churn with supervised learning](https://github.com/gi-garif/data-science-and-analytics-projects/blob/main/Predicting%20Customer%20Churn%20with%20Supervised%20Learning.ipynb) | The task at hand was to predict whether a customer will leave the bank in the near future or not. Historical data on customer behavior and contract terminations with the bank have been provided for analysis.| *Python, Pandas, Matplotlib, Scikit-learn* |

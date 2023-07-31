@@ -1,0 +1,3 @@
+| Project | Description | Technologies used | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Final data analytics project](https://github.com/gi-garif/data-science-and-analytics-projects/blob/main/Final%20data%20analytics%20project.ipynb) | The research aims to assist the online store "Streamchik," a global retailer of computer games, in identifying popular video games to focus on and optimizing advertising campaigns. The objective was to identify patterns and factors that contribute to the success of games in order to make data-driven decisions.| *Python, Pandas, Matplotlib, NumPy, SciPy* |
