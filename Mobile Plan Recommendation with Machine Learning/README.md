@@ -1,3 +1,3 @@
 | Project | Description | Technologies used | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Mobile plan recommendation with machine learning](https://github.com/gi-garif/data-science-and-analytics-projects/blob/main/Mobile%20Plan%20Recommendation%20with%20Machine%20Learning.ipynb) | The mobile operator has discovered that many customers are using outdated legacy tariffs. A system capable of analyzing customer behavior and offering them one of the new mobile plans was built.| *Python, Pandas, Matplotlib, Scikit-learn* |
+| Mobile plan recommendation with machine learning | The mobile operator has discovered that many customers are using outdated legacy tariffs. A system capable of analyzing customer behavior and offering them one of the new mobile plans was built.| Python, Pandas, Matplotlib, Scikit-learn |
